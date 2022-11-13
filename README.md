@@ -1,4 +1,4 @@
-# 餐廳列表
+# 消費紀錄簿
 
 使用Node.js + Express套件打造出的記帳本，使用者可以註冊帳號登入，或以 Facebook 認證登入使用。
 可新增一筆新的資料、編輯修改每一筆詳細資料和刪除功能。
@@ -20,11 +20,11 @@
 
 ## 畫面預覽
 
-![index](/images/8.jpg)
+![index](/images/1.jpg)
 
-![index2](/images/9.jpg)
+![index2](/images/2.jpg)
 
-![show](/images/10.jpg)
+![show](/images/3.jpg)
 
 ## 安裝
 1. 複製專案，在終端機輸入：
