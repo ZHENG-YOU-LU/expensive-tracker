@@ -20,11 +20,11 @@
 
 ## 畫面預覽
 
-![index](/images/1.jpg)
+![index](/image/1.jpg)
 
-![index2](/images/2.jpg)
+![index2](/image/2.jpg)
 
-![show](/images/3.jpg)
+![show](/image/3.jpg)
 
 ## 安裝
 1. 複製專案，在終端機輸入：
